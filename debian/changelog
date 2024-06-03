@@ -1,3 +1,16 @@
+xed (3.4.5mamolinux5) noble; urgency=medium
+
+  [ tlemy ]
+  * added shortcut to duplicate selection (#615)
+    * added shortcut to duplicate selection
+    * Fixed memory leak
+  * added condition to not save empty doc (#617)
+  * removed trailing space char in custom date time (#616)
+  * added auto close setting to close window when that last tab is closed (#613)
+    * added auto close setting to close window when that last tab is closed
+
+ -- Himadri Sekhar Basu <hsb10@iitbbs.ac.in>  Tue, 04 Jun 2024 05:28:20 +0530
+
 xed (3.4.5) virginia; urgency=medium
 
   [ Leigh Scott ]
